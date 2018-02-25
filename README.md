@@ -49,3 +49,6 @@ Student is enrolled to the course if quota is remaining and there are no restric
 - Are there uncapped courses?
 - What kinds of restrictions might be applied?
 - Will system query external sources (i.e. library service) in order to maintain restrictions?
+
+## License
+MIT
