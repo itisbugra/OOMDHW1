@@ -19,6 +19,7 @@ Student is enrolled to the course if quota is remaining and there are no restric
 4. System determines if course is available in terms of quota and restrictions.
 5. System assigns the course to the student and increments the number of enrolled students in selected course.
 6. System shows a success message indicating student is successfully accepted to the course.
+
   *Student repeats steps 2-6 until indicates done.*
 
 ## Alternative Flows:
